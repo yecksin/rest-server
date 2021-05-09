@@ -2,6 +2,7 @@
 - npm i express
 - npm i --save-dev @types/express  *Ayudas de express*
 - npm install cors
+- npm i --save-dev @types/cors *Ayudas de cors*
 - npm i body-parser *Ya no se usa es express .17*
 
 # Configurar ts
