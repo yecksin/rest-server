@@ -1,2 +1,2 @@
-tsc -w
-nodemon/dist
+- tsc -w
+- nodemon/dist
